@@ -72,6 +72,11 @@ This project focuses on **Excel formatting, data validation, and conditional for
 ## 🌐 Google Drive Version  
 > 🔗 [View on Google Sheets](https://docs.google.com/spreadsheets/d/1dsL1wq1Yzylo1HoLK8AcoZdgcb-lIExaqpXN6uTyuHo/edit?usp=sharing)
 
+---
+
+## 📦 Dataset Source:
+Sample sales dataset inspired by Superstore data (commonly used in Excel/Power BI/EDA practice)
+(SuperStore Dataset: https://coding-platform.s3.amazonaws.com/dev/lms/tickets/cd7f183f-9826-4b1b-b7a0-a109dbfe0327/rVqpcxcZPugeVIdZ.csv)
 
 ---
 
