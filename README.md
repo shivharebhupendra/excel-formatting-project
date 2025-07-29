@@ -70,13 +70,13 @@ This project focuses on **Excel formatting, data validation, and conditional for
 ---
 
 ## 🌐 Google Drive Version  
-> 🔗 [View on Google Sheets]((https://docs.google.com/spreadsheets/d/1dsL1wq1Yzylo1HoLK8AcoZdgcb-lIExaqpXN6uTyuHo/edit?usp=sharing)) 
+> 🔗 [View on Google Sheets](https://docs.google.com/spreadsheets/d/1dsL1wq1Yzylo1HoLK8AcoZdgcb-lIExaqpXN6uTyuHo/edit?usp=sharing)
 
 
 ---
 
 ## ⚠️ Note on Conversion
-> 📌 *Some formatting rules like icon sets or data bars may appear differently in Excel compared to Google Sheets. For the most accurate view, prefer the [Google Sheets](#) version.*
+> 📌 *Some formatting rules like icon sets or data bars may appear differently in Excel compared to Google Sheets. For the most accurate view, prefer the [Google Sheets](https://docs.google.com/spreadsheets/d/1dsL1wq1Yzylo1HoLK8AcoZdgcb-lIExaqpXN6uTyuHo/edit?usp=sharing) version.*
 
 ---
 
